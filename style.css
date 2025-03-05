@@ -162,3 +162,8 @@ li::marker {
     font-weight: 400;
     color: #4a5161;
 }
+
+.bold-text-delicious-kitty {
+    font-weight: 700;
+    color: #1f2937;
+}
